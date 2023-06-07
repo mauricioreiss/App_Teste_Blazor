@@ -1,0 +1,39 @@
+﻿<h1>Simulando Emprestimo</h1>
+
+<label for"Valor:">Valor do emprestimo </label>
+<br />
+<input @bind="Valor" type="number"/>
+<br />
+
+<label for"Parcelas:">Numero de parcelas desejadas</label>
+<br />
+<input @bind="Parcelas" type="number" />
+<br />
+<br />
+
+<button @onclick="CalcImprestimo">Simular emprestimo</button>
+<br/>
+<br/>
+
+
+<label>O total a ser pago sera: R$ <span>@Total</span></label>
+<br />
+<br />
+
+<label>Em<span>@Parcelas</span>X De R$ <span>@ValorParcelas</span> </label>
+<br />
+
+@code {
+    double Valor { get; set; }
+    int Parcelas { get; set; }
+
+    double Total { get; set; }
+    double ValorParcelas { get; set; }
+
+    private void CalcImprestimo()
+    {
+        Total = Valor + (Valor * (Parcelas * 0.0284));
+        ValorParcelas = Math.Round(Total / Parcelas);
+    }
+
+}

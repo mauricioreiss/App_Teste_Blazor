@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\obj\\Debug\\net7.0\\build-gz\\WzOEhUXG.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Alura_Blazor.styles.css",
+      "PackagePath": "staticwebassets\\Alura_Blazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mauricio.silva\\Documents\\App_Alura\\Alura_Blazor\\Alura_Blazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Alura_Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Alura_Blazor.props",
+      "PackagePath": "build\\Alura_Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Alura_Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Alura_Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Alura_Blazor.props",
+      "PackagePath": "buildTransitive\\Alura_Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
